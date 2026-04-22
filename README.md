@@ -1,0 +1,1 @@
+# Microsoft_Azure_Synapse_Retail_Sale
