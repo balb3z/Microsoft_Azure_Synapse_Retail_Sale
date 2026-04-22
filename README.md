@@ -1,4 +1,5 @@
-# 📊 Sales Analytics Dashboard (Azure Synapse + Power BI)
+# 📊 Sales Analytics Dashboard 
+(Azure Synapse + Power BI)
 
 > End-to-end data analytics project transforming raw sales data into actionable business insights.
 
