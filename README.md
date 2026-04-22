@@ -10,7 +10,7 @@
 # 📸 Dashboard Preview
 
 ## 🔝 KPIs Overview
-![KPIs](./images/kpis.png)
+![KPIs](./images/Screenshot 2026-04-22 233226.png)
 
 
 ## 💳 Payment Distribution
