@@ -3,24 +3,6 @@
 > End-to-end data analytics project transforming raw sales data into actionable business insights.
 
 
-
-
----
-
-# 📸 Dashboard Preview
-
-## 🔝 KPIs Overview
-![KPIs](./images/Screenshot 2026-04-22 233226.png)
-
-
-## 💳 Payment Distribution
-![Payment](./images/payment.png)
-
-## 🏬 Store Performance
-![Store](./images/store.png)
-
-
-
 ---
 
 # 📌 Project Overview
